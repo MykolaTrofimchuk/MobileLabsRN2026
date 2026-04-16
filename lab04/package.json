@@ -1,5 +1,6 @@
 {
-  "license": "0BSD",
+  "name": "lab04",
+  "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "expo start",
@@ -9,12 +10,11 @@
   },
   "dependencies": {
     "expo": "~54.0.33",
+    "expo-file-system": "~19.0.21",
     "expo-status-bar": "~3.0.9",
     "react": "19.1.0",
     "react-native": "0.81.5",
-    "expo-file-system": "~19.0.21",
-    "react-native-paper": "4.9.2",
-    "@expo/vector-icons": "^15.0.3"
+    "react-native-safe-area-context": "~5.6.0"
   },
   "private": true
 }
